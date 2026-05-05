@@ -1,0 +1,16 @@
+{
+  "name": "GHOST SHIELD Cybersecurity Platform",
+  "description": "Professional cybersecurity threat intelligence and monitoring platform with AI-driven detection and real-time visualization.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "AI-Powered Threat Detection",
+    "Real-Time Attack Map Visualization",
+    "Automated Threat Response & Blocking",
+    "OSINT & IP Intelligence Enrichment",
+    "MITRE ATT&CK Framework Mapping",
+    "Predictive Attack Forecasting",
+    "Comprehensive PDF Intelligence Reporting"
+  ]
+}
